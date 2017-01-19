@@ -6,11 +6,14 @@ How to setup:
     - git clone https://github.com/google/closure-linter.git
     - git clone https://github.com/google/python-gflags.git
  How to compile:
-  - Install Homebrew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"  
-  - Install Java: brew cask install java
-  - Install Maven: brew install maven
-  - Install Ant: brew install ant
-  - 
+  - Install Homebrew: 
+    - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"  
+  - Install Java: 
+    - brew cask install java
+  - Install Maven: 
+    - brew install maven
+  - Install Ant: 
+    - brew install ant
   - Build Closure's compiler.jar: 
     - cd closure-compiler
     - mvn -DskipTests
