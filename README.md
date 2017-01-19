@@ -5,6 +5,7 @@ How to setup:
     - git clone https://github.com/google/closure-compiler.git
     - git clone https://github.com/google/closure-linter.git
     - git clone https://github.com/google/python-gflags.git
+    
  How to compile:
   - Install Homebrew: 
     - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"  
