@@ -1,4 +1,4 @@
-How to setup:
+## How to setup:
   - Checkout closure-library, closure-compiler, closure-linter and python-gflags next to libphonenumber 
     - git clone https://github.com/googlei18n/libphonenumber/   
     - git clone https://github.com/google/closure-library/
@@ -6,7 +6,7 @@ How to setup:
     - git clone https://github.com/google/closure-linter.git
     - git clone https://github.com/google/python-gflags.git
     
- How to compile:
+## How to compile:
   - Install Homebrew: 
     - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"  
   - Install Java: 
